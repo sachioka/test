@@ -46,5 +46,5 @@ fclose($file);
     </table>
   </fieldset>
 </body>
-
+<!-- kakikomizumi -->
 </html>
